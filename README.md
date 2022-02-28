@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miguelfesanbar
-- 👀 I’m interested in UX/UI design and software development
-- 🌱 I’m currently learning Computer Engineering
+- 👀 I’m interested in Game Design, UX/UI design and software development
+- 🌱 I’m currently learning Computer Engineering and Game Design
 - 💞️ I’m looking to collaborate on any kind of project
 - 📫 How to reach me miguelfesanbar@yahoo.com.br
 
